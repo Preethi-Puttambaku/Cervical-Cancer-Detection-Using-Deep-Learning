@@ -20,7 +20,8 @@ This project developed a deep learning system for cervical cancer detection usin
 <table>
   <tr>
     <td align="center"><a href="https://github.com/Preethi-Puttambaku">@Preethi-Puttambaku</a></td>
-    <td align="center"><a href="https://github.com/Preethi-Puttambaku">@</a></td>
+    <td align="center"><a href="https://github.com/Bhavana268">@Bhavana268</a></td>
+    <td align="center"><a href="https://github.com/SkNazziia">@SkNazziia</a></td>
     </tr>
   <tr>
     <td align="center">Preethi-Puttambaku</td>
