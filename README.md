@@ -16,7 +16,7 @@ This project developed a deep learning system for cervical cancer detection usin
 - Training and Inference Time: Measure model efficiency for real-time use.
 - Confusion Matrix: Analyze false positives and negatives to ensure reliability.
 
-## Contributers 
+## Contributors 
 <table>
   <tr>
     <td align="center"><a href="https://github.com/Preethi-Puttambaku">@Preethi-Puttambaku</a></td>
