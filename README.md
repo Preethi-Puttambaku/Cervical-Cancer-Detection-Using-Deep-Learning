@@ -24,7 +24,9 @@ This project developed a deep learning system for cervical cancer detection usin
     <td align="center"><a href="https://github.com/SkNazziia">@SkNazziia</a></td>
     </tr>
   <tr>
-    <td align="center">Preethi-Puttambaku</td>
+    <td align="center">Preethi Puttambaku</td>
+    <td align="center">Bhavana Yenigalla</td>
+    <td align="center">Shaik Nazziia</td>
     <td align="center"></td>
     </tr>
 </table>
